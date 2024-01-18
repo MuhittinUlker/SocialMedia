@@ -15,8 +15,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: mythmachiinex@gmail.com
-    password: vrex uoip askb rlzn
+    username: myemail
+    password: mypass
     properties:
       mail:
         smtp:

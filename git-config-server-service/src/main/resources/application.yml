@@ -1,0 +1,14 @@
+server:
+  port: 8889
+
+spring:
+
+  cloud:
+    config:
+      server:
+        git:
+          uri: "https://github.com/MuhittinUlker/java12-config-repo.git"
+          default-label: main
+          skip-ssl-validation: true
+          username: MuhittinUlker
+          password: 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
